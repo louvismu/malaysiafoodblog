@@ -1,2 +1,0 @@
-# malaysiafoodblog
-Malaysia Food Blog
