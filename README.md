@@ -6,7 +6,7 @@
 ## 技术栈
 
 - Next.js
-- TypeScript
+- TypeScript 
 - React
 - ESLint
 - 其他依赖详见 `package.json`
