@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { ChevronLeft, Clock, Users, Printer, Share2, Bookmark } from "lucide-react"
-import { Button } from "@/malaysiafoodblog/components/ui/button"
+import { Button } from "@/components/ui/button"
 
 export default function RecipePage({ params }: { params: { slug: string } }) {
   // In a real application, you would fetch the recipe data based on the slug

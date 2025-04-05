@@ -1,8 +1,8 @@
 import Link from "next/link"
 import Image from "next/image"
 import { Search, ChevronRight } from "lucide-react"
-import { Button } from "@/malaysiafoodblog/components/ui/button"
-import { Input } from "@/malaysiafoodblog/components/ui/input"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
 
 export default function Home() {
   return (
