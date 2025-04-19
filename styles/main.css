@@ -1,0 +1,11 @@
+.food-image {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.food-item {
+    margin-bottom: 20px;
+    padding: 15px;
+}
